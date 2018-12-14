@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PlexDino;
+namespace PocketDino;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\entity\Skin;

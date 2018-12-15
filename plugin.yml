@@ -2,7 +2,7 @@ name: PocketDino
 version: 1.0.0
 api: 3.0.0
 main: PocketDino\Main
-author: PocketDino
+author: PlexOfDevs
 
 commands:
   dino:
